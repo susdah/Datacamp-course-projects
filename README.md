@@ -17,9 +17,9 @@ Libraries:
 <b>Libraries:</b> pandas, numpy matplotlib.pyplot and pingouin. 
 
 ### Model and predict insurance claims
-Purpose:\
-Business questions answered:\
-Libraries:
+<b>Purpose:</b>\
+<b>Business questions answered:</b>\
+<b>Libraries:</b>
 
 ### Preparing data for modeling
 Purpose:\
