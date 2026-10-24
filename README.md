@@ -5,8 +5,11 @@ This folder contains a series of projects that I completed as part of several co
 ## Projects
 
 ### Exploring market trends
-<b>Purpose:</b>\
+<b>Purpose:</b> Takes three files of three different file formats and merges them, cleans the data and answers the business questions listed below for the purpose of evaluating market pricing, supply of private rooms and data recency.\
 <b>Business questions answered:</b>\
+&emsp;1. When were the earliest and most recent reviews dated?\
+&emsp;2. How many listings were private rooms?\
+&emsp;3. What was the average listed price?\
 <b>Libraries:</b>
 
 ### Hypothesis testing
@@ -20,7 +23,7 @@ This folder contains a series of projects that I completed as part of several co
 <b>Purpose:</b> Identify which customer characteristic is most useful for predicting whether a customer will make an insurance claim or not.\
 <b>Business questions answered:</b>\
 &emsp;1. Which customer feature is the most accurate predictor of whether a customer will file a claim or not?
-<b>Libraries: pandas, numpy, statsmodels.formula.api and sklearn.metrics.</b>
+<b>Libraries:</b> pandas, numpy, statsmodels.formula.api and sklearn.metrics.
 
 ### Preparing data for modeling
 <b>Purpose:</b>\
