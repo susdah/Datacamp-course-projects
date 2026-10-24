@@ -22,9 +22,10 @@ This folder contains a series of projects that I completed as part of several co
 ### Model and predict insurance claims
 <b>Purpose:</b> Identify which customer characteristic is most useful for predicting whether a customer will make an insurance claim or not for the purpose of assessing risk among customer segments and resource allocation.\
 <b>Business questions answered:</b>\
-&emsp;1. Which customer feature is the most accurate predictor of whether a customer will file a claim or not?
+&emsp;1. Which customer feature is the most accurate predictor of whether a customer will file a claim or not?\
 <b>Libraries:</b> pandas, numpy, statsmodels.formula.api and sklearn.metrics.
 
+TBC:\
 ### Preparing data for modeling
 <b>Purpose:</b>\
 <b>Business questions answered:</b>\
