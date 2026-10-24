@@ -10,7 +10,7 @@ This folder contains a series of projects that I completed as part of several co
 &emsp;1. When were the earliest and most recent reviews dated?\
 &emsp;2. How many listings were private rooms?\
 &emsp;3. What was the average listed price?\
-<b>Libraries:</b>
+<b>Libraries:</b> pandas and numpy.
 
 ### Hypothesis testing
 <b>Purpose:</b> Reads two csv files, selects the portion of the data dated from 2002-01-01, prints a histogram to show both dataframes are left skewed, uses a Wilcoxon-Mann-Whitney test to find the p_value then prints the p-value together with if the test rejects the null hypothesis or fails to reject it. \
