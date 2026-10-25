@@ -34,10 +34,13 @@ This folder contains a series of projects that I completed as part of several tr
 <b>Business questions answered:</b>\
 &emsp;1. What time during a 24h period do crimes occur most frequently?\
 &emsp;2. Which areas experience the highest volume of crime at night (when night is defined as 10pm - 3am)?\
-&emsp;3. Which age group experiences the most recorded crimes? 
+&emsp;3. Which age group experiences the most recorded crimes? \
 <b>Libraries:</b> pandas, numpy, matplotlib.pyplot and seaborn.
 
 ### Visualize movie data
 <b>Purpose:</b>\
 <b>Business questions answered:</b>\
-<b>Libraries:</b>
+&emsp;1. What was the most common runtime of movies released in the 1990s?\
+&emsp;2. How many action movies released in the 1990s had a runtime of less than 90 minutes?\
+&emsp;1. How were movie runtimes distributed during the 1990s? Visualize this with a histogram.\
+<b>Libraries:</b> pandas and matplotlib.pyplot.
