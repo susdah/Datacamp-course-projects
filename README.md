@@ -1,6 +1,6 @@
 # Datacamp course projects
 
-This folder contains a series of projects that I completed as part of several course tracks on Datacamp.
+This folder contains a series of projects that I completed as part of several tracks on Datacamp.
 
 ## Projects
 
@@ -21,15 +21,14 @@ This folder contains a series of projects that I completed as part of several co
 
 ### Model and predict insurance claims
 <b>Purpose:</b> Identify which customer characteristic is most useful for predicting whether a customer will make an insurance claim or not for the purpose of assessing risk among customer segments and resource allocation.\
-<b>Business questions answered:</b>\
-&emsp;1. Which customer feature is the most accurate predictor of whether a customer will file a claim or not?\
+<b>Business questions answered:</b> Which customer feature is the most accurate predictor of whether a customer will file a claim or not?\
 <b>Libraries:</b> pandas, numpy, statsmodels.formula.api and sklearn.metrics.
 
 TBC:\
 ### Preparing data for modeling
-<b>Purpose:</b>\
-<b>Business questions answered:</b>\
-<b>Libraries:</b>
+<b>Purpose:</b> Reads a large dataset, transforms categorical data with two options to boolean, changes datatype to minimize memory usage, segments several columns into categories and uses some of those categories to answer the business question.\
+<b>Business questions answered:</b> What does the data look like for candidates with at least 10 years experience who work at companies with 1000 employees or more?\
+<b>Libraries:</b> pandas. 
 
 ### Visualize crime data
 <b>Purpose:</b>\
@@ -37,6 +36,6 @@ TBC:\
 <b>Libraries:</b>
 
 ### Visualize movie data
-Purpose:\
-Business questions answered:\
-Libraries:
+<b>Purpose:</b>\
+<b>Business questions answered:</b>\
+<b>Libraries:</b>
